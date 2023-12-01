@@ -18,6 +18,10 @@ nav ul li a {
 nav ul li a:hover {
     font-size: 1.03rem;
 }
+.newone{
+    color: pink;
+    background: red;
+}
 
 .leftSec .btn {
     padding: 7px;
